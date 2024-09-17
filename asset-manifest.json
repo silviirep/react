@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2355cb7.css",
+    "main.js": "/static/js/main.38062e45.js",
+    "static/js/453.a50becb7.chunk.js": "/static/js/453.a50becb7.chunk.js",
+    "static/media/perro-lindo-arte-digital.jpg": "/static/media/perro-lindo-arte-digital.4b54826281b5d15e6dd3.jpg",
+    "index.html": "/index.html",
+    "main.a2355cb7.css.map": "/static/css/main.a2355cb7.css.map",
+    "main.38062e45.js.map": "/static/js/main.38062e45.js.map",
+    "453.a50becb7.chunk.js.map": "/static/js/453.a50becb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2355cb7.css",
+    "static/js/main.38062e45.js"
+  ]
+}
